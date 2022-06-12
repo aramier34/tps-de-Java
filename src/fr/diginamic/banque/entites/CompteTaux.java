@@ -1,0 +1,8 @@
+package fr.diginamic.banque.entites;
+
+public class CompteTaux {
+	public CompteTaux
+
+	float tauxRem;
+	
+}
